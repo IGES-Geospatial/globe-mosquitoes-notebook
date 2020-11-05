@@ -7,7 +7,7 @@ It is available for distribution in three different ways:
 
 ### MyBinder:
 
-https://mybinder.org/v2/git/https%3A%2F%2Fmattbandel%40bitbucket.org%2Fmattbandel%2Fglobe-mosquitoes-notebook.git/master?filepath=mosquitoes.ipynb
+https://mybinder.org/v2/gh/IGES-Geospatial/globe-mosquitoes-notebook/HEAD?filepath=mosquitoes.ipynb
 
 This link will open a copy of the notebook in your browser.  It is hosted by a free service called MyBinder.org.  The advantage is that the Python environment is already established for you.  The disadvantage is that resources are limited, and so the connection is lost after 10 minutes of inactivity.  
 
