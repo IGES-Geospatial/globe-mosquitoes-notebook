@@ -5,7 +5,7 @@ jupyter==1.0.0
 notebook>=6.4.10
 
 # requests for making api requests
-requests==2.23.0
+requests~>2.31.0
 
 # fuzzy matching
 fuzzywuzzy==0.18.0
