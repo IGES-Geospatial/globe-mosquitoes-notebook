@@ -1,5 +1,8 @@
 # requirements file
 
+#python
+python=3.8
+
 # jupyter notebook
 jupyter==1.0.0
 notebook>=6.4.10
