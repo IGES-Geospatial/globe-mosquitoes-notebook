@@ -14,9 +14,6 @@ python-Levenshtein==0.12.0
 # numpy for math functions
 numpy>=1.21.1
 
-#gdal
-gdal>=3.7.0
-
 # bokeh plotting
 bokeh==1.4.0
 fiona==1.8.13.post1
